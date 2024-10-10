@@ -104,3 +104,4 @@ C:\Users\Kras\Desktop\DevOps\08-Exercise-CI-CD-GitHub-Actions\08-Exercise-CI-CD-
 C:\Users\Kras\Desktop\DevOps\08-Exercise-CI-CD-GitHub-Actions\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Kras\Desktop\DevOps\08-Exercise-CI-CD-GitHub-Actions\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Kras\Desktop\DevOps\08-Exercise-CI-CD-GitHub-Actions\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kras\Desktop\DevOps\08-Exercise-CI-CD-GitHub-Actions\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
